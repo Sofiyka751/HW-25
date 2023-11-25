@@ -1,0 +1,27 @@
+.box,
+.box_t,
+.box_th {
+    width: 100px;
+    height: 100px;
+}
+
+.box {
+    position: absolute;
+    background-color: palevioletred;
+    top: 86px;
+    left: 472px;
+}
+
+.box_t {
+    position: relative;
+    background-color: darkseagreen;
+    top: 181px;
+    left: 579px;
+}
+
+.box_th {
+    position: absolute;
+    background-color: rgb(111, 54, 245);
+    top: 131px;
+    left: 518px;
+}
